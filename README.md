@@ -1,3 +1,3 @@
 # pages-app
-<br>
-## Small scale django learning project
+
+### Small scale django learning project
